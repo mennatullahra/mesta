@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MESTA POC — Python-only edition
 
 This edition does **not** require Node.js, npm, admin privileges, or a frontend build step.
@@ -102,6 +101,3 @@ python scripts\seed_products.py
 
 ### Product image is missing
 Confirm `backend\app\static\products` exists and contains `demo-001.svg` through `demo-040.svg`.
-=======
-# mesta
->>>>>>> ab6b14e8570c178c4d5eedceb051b0595e121e0d
