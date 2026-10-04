@@ -1,0 +1,7 @@
+[
+  {"image":"look_01.jpg","expected_categories":["blouse","skirt","hijab","bag"],"expected_color_families":["red","neutral","neutral","black"]},
+  {"image":"look_02.jpg","expected_categories":["dress","hijab","bag"],"expected_color_families":["green","neutral","neutral"]},
+  {"image":"look_03.jpg","expected_categories":["shirt","pants","hijab"],"expected_color_families":["white","neutral","neutral"]},
+  {"image":"look_04.jpg","expected_categories":["blazer","top","pants","hijab"],"expected_color_families":["neutral","black","black","neutral"]},
+  {"image":"look_05.jpg","expected_categories":["dress","hijab","bag","shoes"],"expected_color_families":["red","neutral","black","black"]}
+]

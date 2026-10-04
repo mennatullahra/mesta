@@ -1,0 +1,1640 @@
+[
+  {
+    "id": "demo-001",
+    "brand": "Noura Studio (Demo)",
+    "name": "Burgundy Relaxed Blouse",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "blouse",
+    "subcategory": null,
+    "price": 890,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-001.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "burgundy"
+    ],
+    "primary_color": "burgundy",
+    "color_family": "red",
+    "style_tags": [
+      "elegant",
+      "minimal"
+    ],
+    "occasion_tags": [
+      "work",
+      "smart_casual"
+    ],
+    "fit": "relaxed",
+    "length": "regular",
+    "sleeve_length": "long",
+    "neckline": "high",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "high_neckline",
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-002",
+    "brand": "Luma Edit (Demo)",
+    "name": "Cream Satin-Look Blouse",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "blouse",
+    "subcategory": null,
+    "price": 980,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-002.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "elegant",
+      "classic"
+    ],
+    "occasion_tags": [
+      "work",
+      "special_occasion"
+    ],
+    "fit": "regular",
+    "length": "regular",
+    "sleeve_length": "long",
+    "neckline": "round",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-003",
+    "brand": "Sahra Label (Demo)",
+    "name": "White Longline Shirt",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "shirt",
+    "subcategory": null,
+    "price": 760,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-003.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "white"
+    ],
+    "primary_color": "white",
+    "color_family": "white",
+    "style_tags": [
+      "minimal",
+      "casual"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "work"
+    ],
+    "fit": "oversized",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": "collared",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "hip_coverage",
+      "layering_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-004",
+    "brand": "Mira Modest (Demo)",
+    "name": "Black High-Neck Top",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "top",
+    "subcategory": null,
+    "price": 620,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-004.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "minimal",
+      "classic"
+    ],
+    "occasion_tags": [
+      "work",
+      "smart_casual"
+    ],
+    "fit": "regular",
+    "length": "regular",
+    "sleeve_length": "long",
+    "neckline": "high",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "high_neckline",
+      "layering_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-005",
+    "brand": "Noura Studio (Demo)",
+    "name": "Cream Flow Maxi Skirt",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "skirt",
+    "subcategory": null,
+    "price": 1150,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-005.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "elegant",
+      "minimal"
+    ],
+    "occasion_tags": [
+      "smart_casual",
+      "special_occasion"
+    ],
+    "fit": "flowy",
+    "length": "maxi",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "maxi_length",
+      "loose_fit",
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-006",
+    "brand": "Luma Edit (Demo)",
+    "name": "Black Pleated Maxi Skirt",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "skirt",
+    "subcategory": null,
+    "price": 1250,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-006.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "classic",
+      "elegant"
+    ],
+    "occasion_tags": [
+      "work",
+      "special_occasion"
+    ],
+    "fit": "flowy",
+    "length": "maxi",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "textured",
+    "material": null,
+    "modesty_tags": [
+      "maxi_length",
+      "loose_fit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-007",
+    "brand": "Sahra Label (Demo)",
+    "name": "Sage A-Line Maxi Skirt",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "skirt",
+    "subcategory": null,
+    "price": 990,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-007.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "sage"
+    ],
+    "primary_color": "sage",
+    "color_family": "green",
+    "style_tags": [
+      "romantic",
+      "minimal"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "smart_casual"
+    ],
+    "fit": "regular",
+    "length": "maxi",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "maxi_length",
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-008",
+    "brand": "Mira Modest (Demo)",
+    "name": "Taupe Wide-Leg Pants",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "pants",
+    "subcategory": null,
+    "price": 1050,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-008.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "taupe"
+    ],
+    "primary_color": "taupe",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal",
+      "workwear"
+    ],
+    "occasion_tags": [
+      "work",
+      "smart_casual"
+    ],
+    "fit": "loose",
+    "length": "regular",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "loose_fit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-009",
+    "brand": "Noura Studio (Demo)",
+    "name": "Black Tailored Wide-Leg Pants",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "pants",
+    "subcategory": null,
+    "price": 1190,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-009.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "classic",
+      "workwear"
+    ],
+    "occasion_tags": [
+      "work",
+      "evening"
+    ],
+    "fit": "loose",
+    "length": "regular",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "loose_fit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-010",
+    "brand": "Luma Edit (Demo)",
+    "name": "Burgundy Column Maxi Dress",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "dress",
+    "subcategory": null,
+    "price": 1750,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-010.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "burgundy"
+    ],
+    "primary_color": "burgundy",
+    "color_family": "red",
+    "style_tags": [
+      "elegant",
+      "evening"
+    ],
+    "occasion_tags": [
+      "engagement",
+      "special_occasion"
+    ],
+    "fit": "regular",
+    "length": "maxi",
+    "sleeve_length": "long",
+    "neckline": "high",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "maxi_length",
+      "high_neckline",
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-011",
+    "brand": "Sahra Label (Demo)",
+    "name": "Navy Relaxed Maxi Dress",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "dress",
+    "subcategory": null,
+    "price": 1590,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-011.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "navy"
+    ],
+    "primary_color": "navy",
+    "color_family": "blue",
+    "style_tags": [
+      "minimal",
+      "classic"
+    ],
+    "occasion_tags": [
+      "smart_casual",
+      "special_occasion"
+    ],
+    "fit": "loose",
+    "length": "maxi",
+    "sleeve_length": "long",
+    "neckline": "round",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "maxi_length",
+      "loose_fit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-012",
+    "brand": "Mira Modest (Demo)",
+    "name": "Camel Relaxed Blazer",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "blazer",
+    "subcategory": null,
+    "price": 1450,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-012.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "camel"
+    ],
+    "primary_color": "camel",
+    "color_family": "neutral",
+    "style_tags": [
+      "classic",
+      "workwear"
+    ],
+    "occasion_tags": [
+      "work",
+      "smart_casual"
+    ],
+    "fit": "relaxed",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": "collared",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "layering_friendly",
+      "hip_coverage"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-013",
+    "brand": "Noura Studio (Demo)",
+    "name": "Cream Longline Cardigan",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "cardigan",
+    "subcategory": null,
+    "price": 950,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-013.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "casual",
+      "minimal"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "weekend"
+    ],
+    "fit": "loose",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": null,
+    "pattern": "textured",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "hip_coverage",
+      "layering_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-014",
+    "brand": "Luma Edit (Demo)",
+    "name": "Denim Overshirt Jacket",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "jacket",
+    "subcategory": null,
+    "price": 1100,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-014.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "denim_blue"
+    ],
+    "primary_color": "denim_blue",
+    "color_family": "blue",
+    "style_tags": [
+      "casual",
+      "streetwear"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "weekend"
+    ],
+    "fit": "oversized",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": "collared",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "hip_coverage",
+      "layering_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-015",
+    "brand": "Sahra Label (Demo)",
+    "name": "Warm Beige Modal Hijab",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "hijab",
+    "subcategory": null,
+    "price": 220,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-015.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "beige"
+    ],
+    "primary_color": "beige",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal",
+      "classic"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "work",
+      "special_occasion"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-016",
+    "brand": "Mira Modest (Demo)",
+    "name": "Burgundy Chiffon Hijab",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "hijab",
+    "subcategory": null,
+    "price": 260,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-016.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "burgundy"
+    ],
+    "primary_color": "burgundy",
+    "color_family": "red",
+    "style_tags": [
+      "elegant"
+    ],
+    "occasion_tags": [
+      "special_occasion",
+      "evening"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-017",
+    "brand": "Noura Studio (Demo)",
+    "name": "Cream Soft-Weave Hijab",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "hijab",
+    "subcategory": null,
+    "price": 240,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-017.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "smart_casual"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "textured",
+    "material": null,
+    "modesty_tags": [
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-018",
+    "brand": "Luma Edit (Demo)",
+    "name": "Black Structured Bag",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "bag",
+    "subcategory": null,
+    "price": 650,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-018.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "classic",
+      "elegant"
+    ],
+    "occasion_tags": [
+      "work",
+      "special_occasion"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-019",
+    "brand": "Sahra Label (Demo)",
+    "name": "Camel Shoulder Bag",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "bag",
+    "subcategory": null,
+    "price": 720,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-019.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "camel"
+    ],
+    "primary_color": "camel",
+    "color_family": "neutral",
+    "style_tags": [
+      "casual",
+      "classic"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "smart_casual"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-020",
+    "brand": "Mira Modest (Demo)",
+    "name": "Burgundy Mini Structured Bag",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "bag",
+    "subcategory": null,
+    "price": 790,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-020.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "burgundy"
+    ],
+    "primary_color": "burgundy",
+    "color_family": "red",
+    "style_tags": [
+      "elegant",
+      "romantic"
+    ],
+    "occasion_tags": [
+      "special_occasion",
+      "evening"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-021",
+    "brand": "Noura Studio (Demo)",
+    "name": "Black Pointed Flats",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "shoes",
+    "subcategory": null,
+    "price": 690,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-021.svg",
+    "product_url": null,
+    "available_sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "classic",
+      "elegant"
+    ],
+    "occasion_tags": [
+      "work",
+      "special_occasion"
+    ],
+    "fit": "regular",
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-022",
+    "brand": "Luma Edit (Demo)",
+    "name": "Beige Loafers",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "shoes",
+    "subcategory": null,
+    "price": 740,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-022.svg",
+    "product_url": null,
+    "available_sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "primary_color": "beige",
+    "color_family": "neutral",
+    "style_tags": [
+      "classic",
+      "casual"
+    ],
+    "occasion_tags": [
+      "work",
+      "smart_casual"
+    ],
+    "fit": "regular",
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-023",
+    "brand": "Sahra Label (Demo)",
+    "name": "Sage Relaxed Blouse",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "blouse",
+    "subcategory": null,
+    "price": 850,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-023.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "sage"
+    ],
+    "primary_color": "sage",
+    "color_family": "green",
+    "style_tags": [
+      "minimal",
+      "romantic"
+    ],
+    "occasion_tags": [
+      "smart_casual"
+    ],
+    "fit": "relaxed",
+    "length": "regular",
+    "sleeve_length": "long",
+    "neckline": "high",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "high_neckline"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-024",
+    "brand": "Mira Modest (Demo)",
+    "name": "Black Draped Blouse",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "blouse",
+    "subcategory": null,
+    "price": 930,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-024.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "elegant"
+    ],
+    "occasion_tags": [
+      "evening",
+      "special_occasion"
+    ],
+    "fit": "relaxed",
+    "length": "regular",
+    "sleeve_length": "long",
+    "neckline": "round",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-025",
+    "brand": "Noura Studio (Demo)",
+    "name": "Blue Striped Longline Shirt",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "shirt",
+    "subcategory": null,
+    "price": 820,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-025.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "primary_color": "blue",
+    "color_family": "blue",
+    "style_tags": [
+      "casual",
+      "classic"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "work"
+    ],
+    "fit": "oversized",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": "collared",
+    "pattern": "striped",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "hip_coverage"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-026",
+    "brand": "Luma Edit (Demo)",
+    "name": "Burgundy Satin-Look Maxi Skirt",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "skirt",
+    "subcategory": null,
+    "price": 1320,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-026.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "burgundy"
+    ],
+    "primary_color": "burgundy",
+    "color_family": "red",
+    "style_tags": [
+      "elegant",
+      "evening"
+    ],
+    "occasion_tags": [
+      "engagement",
+      "special_occasion"
+    ],
+    "fit": "flowy",
+    "length": "maxi",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "maxi_length",
+      "loose_fit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-027",
+    "brand": "Sahra Label (Demo)",
+    "name": "Taupe Straight Maxi Skirt",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "skirt",
+    "subcategory": null,
+    "price": 1080,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-027.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "taupe"
+    ],
+    "primary_color": "taupe",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal",
+      "workwear"
+    ],
+    "occasion_tags": [
+      "work"
+    ],
+    "fit": "regular",
+    "length": "maxi",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "maxi_length"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-028",
+    "brand": "Mira Modest (Demo)",
+    "name": "Cream Wide-Leg Pants",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "pants",
+    "subcategory": null,
+    "price": 1120,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-028.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal",
+      "elegant"
+    ],
+    "occasion_tags": [
+      "smart_casual",
+      "work"
+    ],
+    "fit": "loose",
+    "length": "regular",
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "loose_fit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-029",
+    "brand": "Noura Studio (Demo)",
+    "name": "Sage Belted Maxi Dress",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "dress",
+    "subcategory": null,
+    "price": 1690,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-029.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "sage"
+    ],
+    "primary_color": "sage",
+    "color_family": "green",
+    "style_tags": [
+      "romantic",
+      "elegant"
+    ],
+    "occasion_tags": [
+      "special_occasion"
+    ],
+    "fit": "regular",
+    "length": "maxi",
+    "sleeve_length": "long",
+    "neckline": "high",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "maxi_length",
+      "high_neckline"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-030",
+    "brand": "Luma Edit (Demo)",
+    "name": "Black Minimal Maxi Dress",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "dress",
+    "subcategory": null,
+    "price": 1650,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-030.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "minimal",
+      "evening"
+    ],
+    "occasion_tags": [
+      "evening",
+      "special_occasion"
+    ],
+    "fit": "loose",
+    "length": "maxi",
+    "sleeve_length": "long",
+    "neckline": "high",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "maxi_length",
+      "loose_fit",
+      "high_neckline"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-031",
+    "brand": "Sahra Label (Demo)",
+    "name": "Black Classic Blazer",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "blazer",
+    "subcategory": null,
+    "price": 1390,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-031.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "classic",
+      "workwear"
+    ],
+    "occasion_tags": [
+      "work",
+      "evening"
+    ],
+    "fit": "regular",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": "collared",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "layering_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-032",
+    "brand": "Mira Modest (Demo)",
+    "name": "Taupe Longline Cardigan",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "cardigan",
+    "subcategory": null,
+    "price": 920,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-032.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "taupe"
+    ],
+    "primary_color": "taupe",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal",
+      "casual"
+    ],
+    "occasion_tags": [
+      "everyday"
+    ],
+    "fit": "loose",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "hip_coverage"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-033",
+    "brand": "Noura Studio (Demo)",
+    "name": "Black Chiffon Hijab",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "hijab",
+    "subcategory": null,
+    "price": 250,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-033.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "black"
+    ],
+    "primary_color": "black",
+    "color_family": "black",
+    "style_tags": [
+      "classic"
+    ],
+    "occasion_tags": [
+      "work",
+      "evening"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-034",
+    "brand": "Luma Edit (Demo)",
+    "name": "Sage Modal Hijab",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "hijab",
+    "subcategory": null,
+    "price": 230,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-034.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "sage"
+    ],
+    "primary_color": "sage",
+    "color_family": "green",
+    "style_tags": [
+      "minimal",
+      "romantic"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "smart_casual"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "hijab_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-035",
+    "brand": "Sahra Label (Demo)",
+    "name": "Cream Structured Bag",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "bag",
+    "subcategory": null,
+    "price": 700,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-035.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal",
+      "elegant"
+    ],
+    "occasion_tags": [
+      "special_occasion"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-036",
+    "brand": "Mira Modest (Demo)",
+    "name": "Taupe Tote Bag",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "bag",
+    "subcategory": null,
+    "price": 780,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-036.svg",
+    "product_url": null,
+    "available_sizes": null,
+    "colors": [
+      "taupe"
+    ],
+    "primary_color": "taupe",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal",
+      "workwear"
+    ],
+    "occasion_tags": [
+      "work",
+      "everyday"
+    ],
+    "fit": null,
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-037",
+    "brand": "Noura Studio (Demo)",
+    "name": "Cream Slingback Flats",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "shoes",
+    "subcategory": null,
+    "price": 760,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-037.svg",
+    "product_url": null,
+    "available_sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "elegant",
+      "romantic"
+    ],
+    "occasion_tags": [
+      "special_occasion"
+    ],
+    "fit": "regular",
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-038",
+    "brand": "Luma Edit (Demo)",
+    "name": "Burgundy Loafers",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "shoes",
+    "subcategory": null,
+    "price": 810,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-038.svg",
+    "product_url": null,
+    "available_sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "colors": [
+      "burgundy"
+    ],
+    "primary_color": "burgundy",
+    "color_family": "red",
+    "style_tags": [
+      "classic"
+    ],
+    "occasion_tags": [
+      "work",
+      "smart_casual"
+    ],
+    "fit": "regular",
+    "length": null,
+    "sleeve_length": null,
+    "neckline": null,
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [],
+    "is_active": true
+  },
+  {
+    "id": "demo-039",
+    "brand": "Sahra Label (Demo)",
+    "name": "Cream Mock-Neck Layering Top",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "top",
+    "subcategory": null,
+    "price": 590,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-039.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "cream"
+    ],
+    "primary_color": "cream",
+    "color_family": "neutral",
+    "style_tags": [
+      "minimal"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "work"
+    ],
+    "fit": "fitted",
+    "length": "regular",
+    "sleeve_length": "long",
+    "neckline": "mock",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "high_neckline",
+      "layering_friendly"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "demo-040",
+    "brand": "Mira Modest (Demo)",
+    "name": "Taupe Utility Jacket",
+    "description": "Sample product created only for the MESTA technology demonstration.",
+    "category": "jacket",
+    "subcategory": null,
+    "price": 1280,
+    "currency": "EGP",
+    "image_url": null,
+    "local_image_path": "data/images/demo-040.svg",
+    "product_url": null,
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "taupe"
+    ],
+    "primary_color": "taupe",
+    "color_family": "neutral",
+    "style_tags": [
+      "casual",
+      "streetwear"
+    ],
+    "occasion_tags": [
+      "everyday",
+      "weekend"
+    ],
+    "fit": "relaxed",
+    "length": "longline",
+    "sleeve_length": "long",
+    "neckline": "collared",
+    "pattern": "solid",
+    "material": null,
+    "modesty_tags": [
+      "long_sleeve",
+      "hip_coverage"
+    ],
+    "is_active": true
+  }
+]
